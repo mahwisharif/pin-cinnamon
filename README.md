@@ -11,6 +11,7 @@ Now your ``PinPATH`` in ``compileToPin.py`` will be ``your-pin-root-dir/source/t
 compile using 
 
 ``$ cd your-pin-root-dir/source/tools/MyDSLTool``
+
 ``$ make obj-intel64/MyDSLTool.so``
 
 run the tool using the following command
